@@ -1,0 +1,4 @@
+C:/Users/Vadim/Desktop/libv/build/CMakeFiles/libv.dir
+C:/Users/Vadim/Desktop/libv/build/CMakeFiles/example.dir
+C:/Users/Vadim/Desktop/libv/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Vadim/Desktop/libv/build/CMakeFiles/ZERO_CHECK.dir
